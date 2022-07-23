@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClientLib/ClientLib.iml" filepath="$PROJECT_DIR$/ClientLib/ClientLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mavlink/Mavlink.iml" filepath="$PROJECT_DIR$/Mavlink/Mavlink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tool-starl.iml" filepath="$PROJECT_DIR$/Tool-starl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dJISDKLIB/dJISDKLIB.iml" filepath="$PROJECT_DIR$/dJISDKLIB/dJISDKLIB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drreach/drreach.iml" filepath="$PROJECT_DIR$/drreach/drreach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drreachapps/drreachapps.iml" filepath="$PROJECT_DIR$/drreachapps/drreachapps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/followApp/followApp.iml" filepath="$PROJECT_DIR$/followApp/followApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/followapp_different_mission/followapp_different_mission.iml" filepath="$PROJECT_DIR$/followapp_different_mission/followapp_different_mission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raceApp/raceApp.iml" filepath="$PROJECT_DIR$/raceApp/raceApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/starLSim/starLSim.iml" filepath="$PROJECT_DIR$/starLSim/starLSim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/starLib/starLib.iml" filepath="$PROJECT_DIR$/starLib/starLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/starl.iml" filepath="$PROJECT_DIR$/starl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClientLib/starl-ClientLib.iml" filepath="$PROJECT_DIR$/ClientLib/starl-ClientLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mavlink/starl-Mavlink.iml" filepath="$PROJECT_DIR$/Mavlink/starl-Mavlink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dJISDKLIB/starl-dJISDKLIB.iml" filepath="$PROJECT_DIR$/dJISDKLIB/starl-dJISDKLIB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drreach/starl-drreach.iml" filepath="$PROJECT_DIR$/drreach/starl-drreach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drreachapps/starl-drreachapps.iml" filepath="$PROJECT_DIR$/drreachapps/starl-drreachapps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/followApp/starl-followApp.iml" filepath="$PROJECT_DIR$/followApp/starl-followApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/followapp_different_mission/starl-followapp_different_mission.iml" filepath="$PROJECT_DIR$/followapp_different_mission/starl-followapp_different_mission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raceApp/starl-raceApp.iml" filepath="$PROJECT_DIR$/raceApp/starl-raceApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/starLSim/starl-starLSim.iml" filepath="$PROJECT_DIR$/starLSim/starl-starLSim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/starLib/starl-starLib.iml" filepath="$PROJECT_DIR$/starLib/starl-starLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/starlTemplate/starl-starlTemplate.iml" filepath="$PROJECT_DIR$/starlTemplate/starl-starlTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/starlTemplate/starlTemplate.iml" filepath="$PROJECT_DIR$/starlTemplate/starlTemplate.iml" />
+    </modules>
+  </component>
+</project>
